@@ -1,6 +1,6 @@
 <div align="center">   
 
-# SDCM: Simulated Densifying and Compensatory Modeling Fusion for Radar-Vision 3-D Object Detection in Internet of Vehicles (IEEE JIOT 2026)
+# SDCM: Simulated Densifying and Compensatory Modeling Fusion for Radar-Vision 3-D Object Detection (IEEE JIOT 2026)
 
 </div>
 <div align="center">   
