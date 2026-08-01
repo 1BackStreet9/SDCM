@@ -97,7 +97,7 @@ Train SDCM with 8 GPUs:
 CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python -m torch.distributed.launch --nproc_per_node=8 ./tools/train.py --cfg_file ./tools/cfgs/sdcm/sdcm_vod_me.yaml --launcher pytorch --sync_bn
 ```
 
-Test SDCM with 8GPUs:
+Test SDCM with 8 GPUs:
 ```
 CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python -m torch.distributed.launch --nproc_per_node=8 ./tools/test.py --cfg_file ./tools/cfgs/sdcm/sdcm_vod_me.yaml --ckpt ./output/sdcm_vod_me/ckpt/yourmodel.pth --launcher pytorch
 ```
