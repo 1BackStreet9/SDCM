@@ -24,6 +24,8 @@ SimDen module for point clouds densifying, then the dense point clouds and RGB i
 ## TODO
 The code of original SimDen module has poor readability. Now it needs to be reorganized to make it easier for replicators to understand. Please forgive us as we graduate students all have a lot of work to do.
 
+If you only want to reproduce the results of SDCM, you could ignore the code of SimDen module and download the mature dense radar point clouds from Baidu Disk directly. Detailed steps can be referred to in the following content.
+
 ## Environment
 > The requirements are the same as those of [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
 
