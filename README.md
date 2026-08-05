@@ -11,7 +11,7 @@
 
 
 
-## Qualitative results
+## Qualitative Results
 ***Visualization results on [View of Delft](https://github.com/tudelft-iv/view-of-delft-dataset), [TJ4DRadSet](https://github.com/TJRadarLab/TJ4DRadSet) and [Astyx HiRes 2019](https://github.com/under-the-radar/radar_dataset_astyx/tree/main).*** *The visualization results of SDCM. There are two scenes for every dataset, with two rows which are the visualizations on RGB images and under point cloud BEV perspective. From top to bottom, they are VoD, TJ4DRadSet and Astyx HiRes 2019 dataset. The red, green, blue, pink and orange 3D bounding boxes denote GroundTruth, Car, Cyclist, Pedestrian and Truck respectively.*
 ![Detection Result](./pics/det.png)
 
