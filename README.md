@@ -21,7 +21,7 @@
 SimDen module for point clouds densifying, then the dense point clouds and RGB images are conveyed to their backbones to achieve feature learning. After that, the two features are sent to RCM module for the compensation of representation degradation, as shown in (c). Finally, the two features are conveyed to MMIF module for reducing heterogeneous features and achieving feature interaction fusion, as shown in (d).*
 ![Overall framework](./pics/pipeline.png)
 
-## TODO
+## Attention please!
 The code of original SimDen module has poor readability. Now we should spend time reorganizing the code to make it easier for replicators to understand. Please forgive us as we graduate students all have a lot of work to do. Thanks!
 
 If you only want to reproduce the results of SDCM, you could ignore the code of SimDen module and download the mature dense radar point clouds from Baidu Disk directly. Detailed steps can be referred to in the following content.
