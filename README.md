@@ -108,7 +108,20 @@ Or you can use single GPU for testing:
 ```
 python ./tools/test.py --cfg_file ./tools/cfgs/sdcm/sdcm_vod_me.yaml --ckpy ./path/to/your/ckpt
 ```
-
+## Citation
+If you find that SDCM is helpful for your research, please consider citing it. Thanks!
+```
+@ARTICLE{11641612,
+  author={Li, Shucong and Zhou, Xiaoluo and He, Yuqian and Liu, Zhenyu},
+  journal={IEEE Internet of Things Journal}, 
+  title={SDCM: Simulated Densifying and Compensatory Modeling Fusion for Radar-Vision 3-D Object Detection}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={4-D radar;vision;densifying;3-D object detection;Internet of Things enabling technology},
+  doi={10.1109/JIOT.2026.3720355}}
+```
 ## Acknowledgements
 
 Many thanks to the open-source repositories:
