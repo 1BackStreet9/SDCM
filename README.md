@@ -116,9 +116,9 @@ If you find that SDCM is helpful for your research, please consider citing it. T
   journal={IEEE Internet of Things Journal}, 
   title={SDCM: Simulated Densifying and Compensatory Modeling Fusion for Radar-Vision 3-D Object Detection}, 
   year={2026},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={13},
+  number={19},
+  pages={46057-46074},
   keywords={4-D radar;vision;densifying;3-D object detection;Internet of Things enabling technology},
   doi={10.1109/JIOT.2026.3720355}}
 ```
